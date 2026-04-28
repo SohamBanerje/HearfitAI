@@ -1,4 +1,3 @@
-[HEarFit AI – A Deep Learning-Based Solution for Personalized Earphone Recommendations, Ensuring Optimal[1].pdf](https://github.com/user-attachments/files/27160991/HEarFit.AI.A.Deep.Learning-Based.Solution.for.Personalized.Earphone.Recommendations.Ensuring.Optimal.1.pdf)
 
 
 # 🎧 HEarFit AI
